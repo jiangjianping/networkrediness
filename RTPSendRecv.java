@@ -1,4 +1,4 @@
-package com.zijingcloud.testonsite.rtp;
+package org.oscchina.testonsite.rtp;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
