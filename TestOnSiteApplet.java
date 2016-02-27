@@ -1,4 +1,4 @@
-package com.zijingcloud.testonsite;
+package org.oscchina.testonsite;
 
 import java.awt.Canvas;
 import java.awt.Color;
